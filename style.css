@@ -1,0 +1,70 @@
+.recipes p {
+    font-size: 36px;
+    text-align: center;
+    
+    border: 10px solid red;
+    padding: 50px;
+}
+
+
+img{
+    height: auto;
+    width: 500px;
+    display: block;
+    margin: auto;
+}
+
+h1,
+h4 {
+    text-align: center;
+}
+
+
+h1 {
+    background-color: rgb(78, 178, 236);
+    color: white;
+    padding: 25px;
+    margin: 0px;
+    font-size: 48px;
+}
+
+
+h2 {
+    font-size: 36px;
+    text-align: center;
+    
+    border: 10px solid red;
+    padding: 50px;
+}
+
+
+h4 {
+    font-size: 36px;
+}
+
+.ingredients, 
+.steps,
+.intro {
+    background-color: black;
+    color: white;
+    text-align: center;
+    list-style-position: inside;
+    font-size: 20px;
+    padding: 25px;
+}
+
+li {
+    margin-bottom: 20px;
+}
+
+span {
+    border: 5px solid red;
+    padding: 2px;
+
+}
+
+
+#note {
+    text-align: center;
+    font-size: 20px;
+}
